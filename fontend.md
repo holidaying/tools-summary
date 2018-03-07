@@ -33,7 +33,17 @@
 |[]|"object"|
 |function(){}|"function"|
 
++ (3) 对象操作
 
 
+|对象操作|result|
+|:-:|:-:|
+|创建对象|Object构造函数创建、使用对象字面量表示法、使用工厂模式创建对象、使用构造函数创建对象、原型创建对象模式、组合使用构造函数模式和原型模式[链接](http://www.jb51.net/article/107012.htm)|
+|访问对象|点访问法、a[b]数字访问法|
+|属性和操作符|constructor、instanceof|
+|继承机制|hasOwnProperty、isPrototypeOf、原型链|
+|全局对象|screen用户屏幕 window|
+|内置对象|Array对象;2.Boolean对象;3.Date对象;4.Math对象;5.Number对象;[链接](http://www.jb51.net/article/85831.htm)|
 
++ (4)js构造对象和原型链对象
 
