@@ -12,12 +12,14 @@
 ### javascript
 
 + (1)数据类型
+
 |数据类型|具体内容|
 |:-:|:-:|
 |基本数据类型|undefined、null、number、string、boolean、Symbol|
 |引用数据类型|object、function、Array|
 
 + (2)typeof产生的结果
+
 |typeof|result|
 |:-:|:-:|
 |undefined|"undefined"|
