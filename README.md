@@ -68,6 +68,7 @@
 
  XMLHttpRequest、AJAX、同源、跨域、json、jsonp、dom、正则、cookie、mv*、事件(鼠标事件、键盘事件、dom事件)、闭包、this作用域、html5新特征
 
+![js原型链](http://ol1rnobmr.bkt.clouddn.com/prototype.png)
 
 ### 2、css相关知识
 
