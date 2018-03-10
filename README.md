@@ -11,6 +11,22 @@
 ## 7、后端
 
 
+|类型|具体内容|
+|:-:|:-:|
+|前端常用库|jquery、amq、cropper、scroll、swiper、md5、echarts|
+|前端MV*|Angular、React、VUE|
+|nodeJS|express构建web站点、restify构建API接口、socket.io构建websocket应用、发布自己的npm包|
+|数据库|mysql、mongodb|
+|缓存|Memcached、Redis|
+|持续集成和测试|BDD、TDD测试、代码覆盖率测试、gulp自动化构建工具、Travis-CI持续集成工具|
+|移动端和客户端|ionic、react-native、electron|
+|版本控制工具|git、svn|
+|css预处理器|less、sass、scss、postcss|
+|打包工具|gulp、grunt、webpack、parcel|
+|服务器|Apache、nginx、node|
+
+![前端优化](http://ol1rnobmr.bkt.clouddn.com/%E4%BC%98%E5%8C%96.png)
+
 ### 1、javascript
 
 + (1) 数据类型
